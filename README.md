@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Hi, I'm Andre  <br>🎓 BINUS University student (B27) – Computer Science  <br>🎨 UI/UX Designer  <br>⚛️ Currently learning React.js  <br>🚀 Interested in design, frontend, and problem-solving
 
 
